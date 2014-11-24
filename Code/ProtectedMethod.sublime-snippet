@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+protected ${1:ReturnType} ${2:MethodName}(${3:Parameters}) {
+	${0}
+}]]></content>
+	<tabTrigger>ptm</tabTrigger>
+	<description>Protected Method</description>
+	<scope>source.cs</scope>
+</snippet>

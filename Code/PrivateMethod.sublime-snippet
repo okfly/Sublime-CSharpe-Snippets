@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+private ${1:ReturnType} ${2:MethodName}(${3:Parameters}) {
+	${0}
+}]]></content>
+	<tabTrigger>pm</tabTrigger>
+	<description>Private Method</description>
+	<scope>source.cs</scope>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+public enum ${1:variable} {
+	${0}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pe</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>public enum</description>
+	<scope>source.cs</scope>
+</snippet>
